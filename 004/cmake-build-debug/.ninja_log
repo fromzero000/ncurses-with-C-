@@ -1,0 +1,14 @@
+# ninja log v6
+110	334	7683778763367853	CMakeFiles/004.dir/ui.cpp.obj.ddi	5c9745e4c92045df
+33	382	7683781837916090	CMakeFiles/004.dir/tetris.cpp.obj.ddi	f19d299c5e8fe56
+383	442	7683781841416376	CMakeFiles/004.dir/CXX.dd	5a5c96f7d60bdf83
+85	544	7683778763127710	CMakeFiles/004.dir/main.cpp.obj.ddi	53a0ba7b6d5473ba
+383	442	7683781841416376	CMakeFiles/004.dir/tetris.cpp.obj.modmap	5a5c96f7d60bdf83
+383	442	7683781841416376	CMakeFiles/004.dir/ui.cpp.obj.modmap	5a5c96f7d60bdf83
+383	442	7683781841416376	C:/Users/user/CLionProjects/2025_cpp_hw/004/cmake-build-debug/CMakeFiles/004.dir/CXXModules.json	5a5c96f7d60bdf83
+383	442	7683781841416376	CMakeFiles/004.dir/main.cpp.obj.modmap	5a5c96f7d60bdf83
+692	1225	7683778769187725	CMakeFiles/004.dir/ui.cpp.obj	6720c988d92e201c
+444	1953	7683781842027655	CMakeFiles/004.dir/tetris.cpp.obj	62085c75f51dbcf9
+666	2461	7683778768927759	CMakeFiles/004.dir/main.cpp.obj	66f6bed29a1ae5b1
+1953	2221	7683781857120060	004.exe	b94a4182858e4415
+61	1592	7687464471546400	build.ninja	2cfbf0e54abee3a0

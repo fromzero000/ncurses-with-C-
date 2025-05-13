@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/004.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/004.dir/tetris.cpp.obj: dyndep
+
+build CMakeFiles/004.dir/ui.cpp.obj: dyndep
+

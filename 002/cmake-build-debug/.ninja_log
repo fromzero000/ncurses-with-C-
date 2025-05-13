@@ -1,0 +1,5 @@
+# ninja log v6
+14	428	7659017455087706	CMakeFiles/002.dir/main.cpp.obj	39b20fe41e22cad2
+42	469	7659017455367640	CMakeFiles/002.dir/ui.cpp.obj	8d06c63e7f2b43df
+29	529	7659017455237637	CMakeFiles/002.dir/tetris.cpp.obj	b086be1e3f61eace
+530	850	7659017460237565	002.exe	453b7920ba02eafa
